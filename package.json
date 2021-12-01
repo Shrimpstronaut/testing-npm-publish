@@ -1,0 +1,17 @@
+{
+  "name": "testing-npm-publish",
+  "description": "A sample project used to test the automation of publishing NPM packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shrimpstronaut/testing-npm-publish.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Shrimpstronaut/testing-npm-publish/issues"
+  },
+  "homepage": "https://github.com/Shrimpstronaut/testing-npm-publish#readme"
+}
