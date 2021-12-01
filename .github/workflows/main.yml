@@ -13,6 +13,8 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '14'
+          registry-url: 'https://registry.npmjs.org'
+          scope: '@sf-taiko'
       - run: |
           npm config set //registry.npmjs.org/:_authToken ${NPM_TOKEN}
           npm publish --ignore-scripts
