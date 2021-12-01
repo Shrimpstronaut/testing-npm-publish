@@ -1,5 +1,5 @@
 {
-  "name": "@sf-taiko/testing-npm-publish",
+  "name": "@sftaiko/testing-npm-publish",
   "description": "A sample project used to test the automation of publishing NPM packages.",
   "main": "index.js",
   "scripts": {
