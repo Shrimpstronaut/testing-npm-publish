@@ -2,6 +2,7 @@
   "name": "@sftaiko/testing-npm-publish",
   "description": "A sample project used to test the automation of publishing NPM packages.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -9,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Shrimpstronaut/testing-npm-publish.git"
   },
-  "author": "",
+  "author": "Stefan Fiedler <sf@taikonauten.com>",
   "bugs": {
     "url": "https://github.com/Shrimpstronaut/testing-npm-publish/issues"
   },
