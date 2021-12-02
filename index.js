@@ -12,5 +12,6 @@ export function timo() {
 
 export default {
     helloWorld,
-    loremIpsum
+    loremIpsum,
+    timo
 }
